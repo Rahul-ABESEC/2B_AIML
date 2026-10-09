@@ -3,6 +3,7 @@ let Account={
     Account_Number:308530,
     Account_Balance:10000,
 }
+
 function Deposit(amount){
     if(amount<0){
         console.log("Enter a Valid amount ");
