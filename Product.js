@@ -8,6 +8,7 @@ function calculate(){
     return (product.Price)*(product.Quantity)
 
 }
+
 function Update(Size){
     product.Quantity=Size
 }
