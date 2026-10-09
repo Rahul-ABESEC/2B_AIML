@@ -13,6 +13,7 @@ function Update(Size){
     product.Quantity=Size
 }
 
+
 function display(){
     console.log(`Product ID : ${product.ProductId}`)
     console.log(`Product Name : ${product.ProductName}`)
