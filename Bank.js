@@ -21,6 +21,7 @@ function Withdrawal(money){
     console.log(`${money} is Debitted from your account `);
 
 }
+
 function display(){
     console.log()
     console.log("<--Account Details-->")
